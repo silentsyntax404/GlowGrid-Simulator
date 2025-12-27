@@ -1,6 +1,6 @@
-# Tidbyt Simulator
+# GlowGrid Simulator
 
-A web-based simulator for Tidbyt-like applications, allowing users to add and configure widgets on a virtual LED matrix display.
+A web-based simulator for GlowGrid-like applications, allowing users to add and configure widgets on a virtual LED matrix display.
 
 ## Features
 
